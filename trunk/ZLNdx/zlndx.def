@@ -1,0 +1,10 @@
+LIBRARY ZLNdx
+EXPORTS
+	DeleteFunc @1
+	GetInfoFunc @2
+	LoadStateFunc @3
+	ResetFunc @4
+	RunFunc @5
+	SaveStateFunc @6
+	SetInfoFunc @7
+	SetPropertyFunc @8

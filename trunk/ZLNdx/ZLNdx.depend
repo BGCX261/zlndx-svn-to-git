@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1266804803 source:c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\guid.cpp
+	<windows.h>
+
+1266807617 source:c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\ioregs.cpp
+	<windows.h>
+	<d3dx9.h>
+	"pluginmain.h"
+	"ioregs.h"
+
+1235994066 c:\users\zachthibeau\documents\codeblocks\zlndx\pluginmain.h
+
+1266804803 c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\ioregs.h
+
+1266984328 source:c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\dllmain.cpp
+	<windows.h>
+	<d3dx9.h>
+	"pluginmain.h"
+	"ioregs.h"
+	"guid.h"
+	"res.h"
+
+1266804803 c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\guid.h
+	<windows.h>
+
+1266804803 c:\users\zachthibeau\documents\codeblocks\zlndx\zlndx\res.h
+
